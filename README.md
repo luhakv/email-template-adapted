@@ -1,4 +1,4 @@
-# README
+# read me
 
 The template is written for both automatic and instant mailing <i>(for justclick.ru).</i>
 To transfer a design from the file to justclick, just open it with a notepad, copy and paste in the "Source" mode.
@@ -9,6 +9,7 @@ When an image is published in the text, upload a picture, click "advanced" tab, 
 
 -----------------------------------------------
 
+# инструкция
 
 Шаблон прописан и для автоматической и для мгновенной рассылки <i>(для justclick.ru).</i>
 Чтобы перенести дизайн из файла в джастклик, достаточно открыть его блокнотом, скопировать и вставить в режиме "Источник".
