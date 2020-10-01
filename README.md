@@ -1,4 +1,4 @@
-# email-template-adapted
+# README
 
 The template is written for both automatic and instant mailing <i>(for justclick.ru).</i>
 To transfer a design from the file to justclick, just open it with a notepad, copy and paste in the "Source" mode.
